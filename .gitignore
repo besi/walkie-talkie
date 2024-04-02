@@ -1,0 +1,7 @@
+/fp-info-cache
+/*-backups
+/*.kicad_prl
+/gerber
+/production
+*.zip
+*.lck

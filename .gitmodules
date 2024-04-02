@@ -1,0 +1,12 @@
+[submodule "lib/mems-mic"]
+	path = lib/mems-mic
+	url = https://github.com/besi/kicad-mems-mic
+[submodule "lib/adafruit-MAX98357"]
+	path = lib/adafruit-MAX98357
+	url = https://github.com/besi/kicad-adafruit-MAX98357
+[submodule "lib/pts636"]
+	path = lib/pts636
+	url = https://github.com/besi/kicad-pts636
+[submodule "lib/tp4056"]
+	path = lib/tp4056
+	url = https://github.com/besi/kicad-tp4056
