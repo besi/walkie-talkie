@@ -2,6 +2,5 @@
   (version 7)
   (lib (name "adafruit-MAX98357")(type "KiCad")(uri "${KIPRJMOD}/lib/adafruit-MAX98357/adafruit-MAX98357.kicad_sym")(options "")(descr ""))
   (lib (name "mems-mic")(type "KiCad")(uri "${KIPRJMOD}/lib/mems-mic/mems-mic.kicad_sym")(options "")(descr ""))
-  (lib (name "esp32-pico-kit")(type "KiCad")(uri "${KIPRJMOD}/lib/esp32-pico-kit/esp32-pico-kit.kicad_sym")(options "")(descr ""))
-  (lib (name "tp4056")(type "KiCad")(uri "${KIPRJMOD}/lib/tp4056/tp4056.kicad_sym")(options "")(descr ""))
+  (lib (name "lolin32-lite")(type "KiCad")(uri "${KIPRJMOD}/lib/lolin32-lite/lolin32-lite.kicad_sym")(options "")(descr ""))
 )

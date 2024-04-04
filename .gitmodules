@@ -7,6 +7,3 @@
 [submodule "lib/pts636"]
 	path = lib/pts636
 	url = https://github.com/besi/kicad-pts636
-[submodule "lib/tp4056"]
-	path = lib/tp4056
-	url = https://github.com/besi/kicad-tp4056
