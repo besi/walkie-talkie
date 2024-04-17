@@ -1,7 +1,5 @@
 (fp_lib_table
   (version 7)
-  (lib (name "pts636")(type "KiCad")(uri "${KIPRJMOD}/lib/pts636/pts636.pretty")(options "")(descr ""))
-  (lib (name "adafruit-MAX98357")(type "KiCad")(uri "${KIPRJMOD}/lib/adafruit-MAX98357/adafruit-MAX98357.pretty")(options "")(descr ""))
   (lib (name "mems-mic")(type "KiCad")(uri "${KIPRJMOD}/lib/mems-mic/mems-mic.pretty")(options "")(descr ""))
-  (lib (name "lolin32-lite")(type "KiCad")(uri "${KIPRJMOD}/lib/lolin32-lite/lolin32-lite.pretty")(options "")(descr ""))
+  (lib (name "jlc_footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/jlc_footprints.pretty")(options "")(descr ""))
 )
