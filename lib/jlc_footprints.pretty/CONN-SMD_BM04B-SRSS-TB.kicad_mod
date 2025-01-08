@@ -1,4 +1,4 @@
-(module "CONN-SMD_BM04B-SRSS-TB" (layer F.Cu) (tedit 661FC42D)
+(module "CONN-SMD_BM04B-SRSS-TB" (layer F.Cu) (tedit 66200D92)
   (descr "CONN-SMD_BM04B-SRSS-TB footprint")
   (tags "CONN-SMD_BM04B-SRSS-TB footprint C160390")
   (attr smd)
